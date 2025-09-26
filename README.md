@@ -1,4 +1,4 @@
-# SVD-Benchmark: A Comprehensive Java Vulnerability Detection Dataset
+# A CWE-Aware Benchmark and Comparative Evaluation of LLMs for Java Software Vulnerability Detection
 
 [![Dataset](https://img.shields.io/badge/Dataset-5054%20samples-blue)](https://github.com/Wala-Alnozmai/SVD-Benchmark)
 [![CWE Coverage](https://img.shields.io/badge/CWE%20Types-32-green)](https://cwe.mitre.org/)
@@ -6,7 +6,7 @@
 
 This repository contains the **SVD-Benchmark** dataset and evaluation framework from our paper:
 
-**"Benchmarking Large Language Models for Java Software Vulnerability Detection"**
+**"A CWE-Aware Benchmark and Comparative Evaluation of LLMs for Java Software Vulnerability Detection"**
 
 ## 🗃️ Dataset Overview
 
