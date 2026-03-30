@@ -1,0 +1,24 @@
+# Core data
+pandas>=2.0.0
+numpy>=1.24.0
+
+# ML / embeddings
+scikit-learn>=1.3.0
+torch>=2.0.0
+transformers>=4.40.0    # SimCSE (princeton-nlp/sup-simcse-roberta-large)
+sentence-transformers>=2.7.0
+
+# LLM APIs
+openai>=1.30.0          # ChatGPT-5.2 via OpenAI API
+anthropic>=0.28.0       # Claude 4.5 Sonnet via Anthropic API
+google-generativeai>=0.6.0  # Gemini 3.0 Flash via Google AI API
+
+# SLM local inference
+ollama>=0.2.0           # CodeGemma-2B, Qwen2.5-Coder-1.5B, Llama-3.2-1B
+
+# SAST integration
+subprocess32>=3.5.4     # Semgrep / SonarQube CLI subprocess calls
+
+# Utilities
+tqdm>=4.66.0
+scipy>=1.11.0           # McNemar's test cross-check
